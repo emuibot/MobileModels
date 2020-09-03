@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200829
+# 小米手机型号汇总 20200902
 
 ## 小米数字系列
 
@@ -620,13 +620,17 @@ M2004J19I: Redmi 9 Prime 印度版
 
 M2004J19AG: Redmi 9 国际版 (有 NFC)
 
-**[`C3L`] Redmi 9A / Redmi 9AT (`dandelion`):**
+**[`C3L`] Redmi 9A / Redmi 9AT / Redmi 9i (`dandelion`):**
 
 M2006C3LC: Redmi 9A 全网通版
 
 M2006C3LG: Redmi 9A 国际版
 
 M2006C3LVG: Redmi 9AT 国际版
+
+M2006C3LI: Redmi 9A 印度版
+
+M2006C3LII: Redmi 9i 印度版
 
 **[`C3M`] Redmi 9C (`angelica`):**
 
@@ -636,9 +640,9 @@ M2006C3MG: Redmi 9C 国际版
 
 M2006C3MNG: Redmi 9C NFC 国际版
 
-**[`C3M`] Redmi 9 (`angelicain`):**
+**[`C3MI`] Redmi 9 (`cattail`):**
 
-M2006C3MI: Redmi 9 印度版
+M2006C3MII: Redmi 9 印度版
 
 ## 红米 Redmi Note 系列
 
@@ -960,9 +964,21 @@ M2004J11G: POCO F2 Pro
 
 M1912G7BI: POCO X2 印度版
 
+**[`J20C`] POCO X3 NFC (`surya`):**
+
+M2007J20CG: POCO X3 NFC 国际版
+
+**[`J19P`] POCO M2 (`shiva`):**
+
+M2004J19PI: POCO M2 印度版
+
 **[`J6C`] POCO M2 Pro (`gram`):**
 
 M2003J6CI: POCO M2 Pro 印度版
+
+**[`C3M`] POCO C3 (`angelicain`):**
+
+M2006C3MI: POCO C3 印度版
 
 ## 黑鲨手机
 
