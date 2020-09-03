@@ -426,6 +426,10 @@ HUAWEI G7-TL00: 华为 Ascend G7 移动版
 
 HUAWEI G7-UL00: 华为 Ascend G7 联通版
 
+HUAWEI G7-UL20: 华为 Ascend G7 双 4G 版
+
+HUAWEI G760-UL20: 华为 Ascend G7 双 4G 版
+
 **HUAWEI G7 Plus (`rio`):**
 
 HUAWEI RIO-TL00: HUAWEI G7 Plus 移动版
@@ -463,6 +467,7 @@ HUAWEI B199: 华为麦芒 B199
 **华为麦芒 C199:**
 
 HUAWEI C199: 华为麦芒 C199
+HUAWEI C199-CL00: 华为麦芒 C199 电信版
 
 **华为麦芒 3S:**
 
