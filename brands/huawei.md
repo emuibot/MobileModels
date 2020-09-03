@@ -424,6 +424,8 @@ HUAWEI G6-C00: 华为 Ascend G6 电信版
 
 HUAWEI G7-TL00: 华为 Ascend G7 移动版
 
+HUAWEI G760-TL00: 华为 Ascend G7 移动版
+
 HUAWEI G7-UL00: 华为 Ascend G7 联通版
 
 HUAWEI G7-UL20: 华为 Ascend G7 双 4G 版
