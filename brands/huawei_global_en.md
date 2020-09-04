@@ -202,7 +202,7 @@ VOG-L29: HUAWEI P30 Pro Dual SIM
 
 **HUAWEI P30 lite (`marie`):**
 
-MAR-LX1A, MAR-LX1Am, MAR-LX1B, MAR-LX1M, MAR-LX1Mm, MAR-LX2, MAR-LX2m, MAR-LX2B, MAR-LX2J, MAR-LX3A, MAR-LX3Am, MAR-LX3Bm: HUAWEI P30 lite
+MAR-L21A, MAR-LX1A, MAR-LX1Am, MAR-LX1B, MAR-LX1M, MAR-LX1Mm, MAR-LX2, MAR-LX2m, MAR-LX2B, MAR-LX2J, MAR-LX3A, MAR-LX3Am, MAR-LX3Bm: HUAWEI P30 lite
 
 **HUAWEI P40 (`anna`):**
 
@@ -226,11 +226,11 @@ CDY-NX9: HUAWEI P40 lite 5G
 
 **HUAWEI P Smart (`figo`):**
 
-FIG-LA1, FIG-LX1, FIG-LX2, FIG-LX3: HUAWEI P Smart
+FIG-L11, FIG-LA1, FIG-LX1, FIG-LX2, FIG-LX3: HUAWEI P Smart
 
 **HUAWEI P Smart+ (`sydney`):**
 
-INE-LX1: HUAWEI P Smart+
+INE-L22, INE-LX1: HUAWEI P Smart+
 
 **HUAWEI P Smart 2019 (`potter`):**
 
@@ -239,6 +239,16 @@ POT-LX1, POT-LX1AF, POT-LX1RU, POT-LX1T, POT-LX3: HUAWEI P Smart 2019
 **HUAWEI P Smart Pro (`stark`):**
 
 STK-L21, STK-LX1: HUAWEI P Smart Pro
+
+## HUAWEI Y Series
+
+**HUAWEI Y6 2019 (`madrid`):**
+
+MRD-L41, MRD-LX1F: HUAWEI Y6 2019
+
+**HUAWEI Y7 2019 (`dubai`):**
+
+DUB-LX1: HUAWEI Y7 2019
 
 ## HUAWEI nova Series
 
@@ -305,3 +315,13 @@ JNY-LX1: HUAWEI nova 7i Dual SIM
 **HUAWEI nova 7 SE (`cindy`):**
 
 CDY-NX9: HUAWEI nova 7 SE 5G
+
+## Other
+
+**Huawei G Play Mini (2015)**
+
+CHC-U01: Huawei G Play Mini (2015)
+
+**Huawei Y5 (2019)**
+
+AMN-LX9: Huawei Y5 (2019)
